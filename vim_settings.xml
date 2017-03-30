@@ -1,0 +1,118 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/conf/application.conf" timestamp="1475126114154">
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/partials/devicecount/uploadedscreens.html" timestamp="1475571516493">
+        <mark key="[" line="113" column="17" />
+        <mark key="]" line="113" column="17" />
+        <mark key="." line="113" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1475185739358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/partials/inapptext/uploadStrings.html" timestamp="1475130025670">
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/javascripts/controllers/inapptext.js" timestamp="1475147312531">
+        <mark key="[" line="101" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/javascripts/controllers/uploadedscreens.js" timestamp="1475571512570">
+        <mark key="'" line="237" column="44" />
+        <mark key="[" line="237" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/partials/devicecount/uploadedvideo-view.html" timestamp="1475184424637">
+        <mark key="[" line="67" column="95" />
+        <mark key="]" line="67" column="95" />
+        <mark key="." line="67" column="95" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/conf/nginx-iat.conf" timestamp="1475493638174">
+        <mark key="'" line="43" column="3" />
+        <mark key="[" line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/app/views/main.scala.html" timestamp="1475570196849">
+        <mark key="[" line="202" column="103" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/javascripts/controllers/commons.js" timestamp="1475563411339">
+        <mark key="[" line="325" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/javascripts/app.js" timestamp="1475560818197" />
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/partials/devicecount/uploadedscreen-view.html" timestamp="1475219281919">
+        <mark key="[" line="118" column="33" />
+        <mark key="]" line="118" column="33" />
+        <mark key="." line="118" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/app/controllers/ScreensController.java" timestamp="1475147797944">
+        <mark key="[" line="676" column="83" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="238" column="44" filename="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/public/javascripts/controllers/uploadedscreens.js" />
+      <jump line="43" column="3" filename="$USER_HOME$/IdeaProjects/zinteract-server/zinteract-ui/conf/nginx-iat.conf" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>30M
+
+#db.d</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>n</text>
+      </register>
+      <register name="-" type="4">
+        <text>n</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnemlwX3ZhcnlcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxnemlwX3ZhcnlcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnemlwX3ZhcnlcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxnemlwX3ZhcnlcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="pagenotfound_inapptext.scala.html" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
