@@ -2,4 +2,7 @@
   <component name="JrePropertiesCache">
     <jre homeDir="/usr/lib/jvm/java-8-oracle" arch64Bit="true" />
   </component>
+  <component name="TemplateCache" checksum="1490434585618">
+    <jvm name="/usr/lib/jvm/java-8-oracle" value="-agentpath:/home/zemoso/Downloads/jprofiler10.0.1/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
+  </component>
 </application>
