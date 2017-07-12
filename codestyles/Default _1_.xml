@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="SPACE_AROUND_ASSIGNMENT_OPERATORS" value="false" />
     <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
